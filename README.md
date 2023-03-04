@@ -1,1 +1,1 @@
-# Movie-rental-Object-oriented-programming
+# Movie-rental-POO
